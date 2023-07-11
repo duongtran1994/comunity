@@ -1,0 +1,3 @@
+comand
+input:select
+...
